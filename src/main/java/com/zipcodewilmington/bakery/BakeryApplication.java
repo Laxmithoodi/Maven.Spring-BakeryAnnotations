@@ -3,6 +3,8 @@ package com.zipcodewilmington.bakery;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
+//@Configuration + @EnableAutoConfigraution + @ComponenetScan
 @SpringBootApplication
 public class BakeryApplication {
 
